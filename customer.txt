@@ -1,0 +1,2 @@
+c1 abdullah manzoor male 34 milkpack p1 100
+c2 afia habib female 23 juice p2 200

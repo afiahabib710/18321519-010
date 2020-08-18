@@ -1,0 +1,3 @@
+p1 milkpack 100
+p2 juice 200
+p3 bread 300
